@@ -6,7 +6,7 @@ Welcome to the Exinfo Studios. Github Repository and Website Portfolio page!
 **Exinfo Studios** is a Minecraft content creation Team! With years of experience Developing, Desiging, Building and more. We have created multiple experiences for
 Minecraft players around the Globe!
 
-Find out more [about Exinfo Studios.](https://www.exinfo-studios.github.io/portfolio).
+Find out more [about Exinfo Studios.](https://www.exinfo-studios.github.io).
 
 
 START HERE
